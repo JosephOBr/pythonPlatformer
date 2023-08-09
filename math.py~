@@ -1,4 +1,0 @@
-import math
-for i in range(360):
-    a = math.sin(2*math.pi/i)
-    print(a)
