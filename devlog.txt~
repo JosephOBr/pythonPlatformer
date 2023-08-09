@@ -1,0 +1,7 @@
+1 demonstrate movement and refresh
+	- gameloop will constantly refresh character, may optimise this so
+	  that a character will not refresh if it has not moved
+		- Suggestion, to update character if the key has been pressed
+		  or if character has velocity
+	- key presses will move the character
+
